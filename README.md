@@ -1,2 +1,4 @@
-# myTheardPool
-myTheardPool
+# myThreadPool
+myThreadPool
+
+support C & C++
